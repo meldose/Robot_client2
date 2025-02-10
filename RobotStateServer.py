@@ -7,8 +7,8 @@ import math # import math module
 import numpy as np #import numpy
 
 SOCKET_RECV_TIMEOUT = 5 # setting socket timeout
-ROBOT_CONTROLLER_IP = "192.168.1.2" #setting IP address
-PORT = 11004 #setting port
+ROBOT_CONTROLLER_IP = "192.168.1.5" #setting IP address
+PORT = 11003 #setting port
 
 # Requests
 JOINT_STATE_TYPE = 1 # service type
